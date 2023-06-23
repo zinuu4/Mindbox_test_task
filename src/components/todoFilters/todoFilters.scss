@@ -1,0 +1,24 @@
+.filters {
+  position: absolute;
+  bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  left: 10.9%;
+  &__inform {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 10px;
+    position: relative;
+    left: -6px;
+  }
+  &__btn {
+    border-radius: 4px;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    background: linear-gradient(90deg, rgb(20, 159, 255) 0%, rgb(17, 122, 255) 100%);
+    color: #fff;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+}
