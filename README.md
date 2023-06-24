@@ -1,4 +1,4 @@
-### <a href='https://docs.google.com/document/d/1jq5yCrQJRHaRG4TabGhDITDMteYuLWG_LjlR9HmB5ac/edit#heading=h.zavj7sd1thwb'>Test task for the Frontend intern position at Mindbox<a/>
+### <a href='https://drive.google.com/drive/folders/1FK4q16lCxJguy8CUKgr7xxQKYUQG0-IA?usp=drive_link'>Test task for the Frontend intern position at Mindbox<a/>
 
 ##### `yarn/npm start`
 
