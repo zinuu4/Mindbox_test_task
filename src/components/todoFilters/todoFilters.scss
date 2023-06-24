@@ -1,15 +1,10 @@
 .filters {
-  position: absolute;
-  bottom: 10px;
   display: flex;
   flex-direction: column;
-  left: 10.9%;
+  margin-top: 120px;
   &__inform {
     color: #fff;
-    text-align: center;
     margin-bottom: 10px;
-    position: relative;
-    left: -6px;
   }
   &__btn {
     border-radius: 4px;
@@ -21,4 +16,7 @@
     margin-right: 10px;
     cursor: pointer;
   }
+}
+.active {
+  background: linear-gradient(90deg, rgb(93, 12, 255) 0%, rgb(155, 0, 250) 100%);
 }
